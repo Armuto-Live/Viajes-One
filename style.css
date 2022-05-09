@@ -1,0 +1,47 @@
+header{
+    display:flex;
+    flex-direction: column;
+    background-color: #B6FF6C;
+}
+.logo{
+    height: 40%;
+    display: inline-flex;
+    align-self: center;
+}
+.logo>h1{
+    align-self: flex-end;
+    color:#555555;
+    font-size: 40px;
+    margin:0;
+}
+nav{
+    background-color: #74A345;
+}
+nav>a{
+    text-decoration: none;
+    padding: 0 8px;
+    color:#E4EDDB;
+    font-size: 20px;
+}
+.imagen-principal{
+    width: 100%;
+    height: 100%;
+}
+main{
+    height: 80vh;
+}
+.segunda-seccion{
+    background-color: #FFFCB7;
+    border: thick solid #B79C31;
+    margin: 50px 3px;
+}
+.tercera-seccion{
+    background-color: #D3FFAB;
+    border:thick solid #74A345;
+    margin: 50px 3px;
+}
+.cuarta-seccion{
+    background-color: #B8E3FF;
+    border:thick solid #0C336D;
+    margin: 50px 3px;
+}
