@@ -1,8 +1,8 @@
+html{
+    scroll-behavior:smooth;
+}
 *,*:after,*:before{
     box-sizing: border-box;
-}
-body{
-    scroll-behavior:inherit;
 }
 header{
     display:flex;
@@ -10,14 +10,13 @@ header{
     background-color: #B6FF6C;
 }
 .logo{
-    height: 40%;
     display: inline-flex;
     align-self: center;
 }
 .logo>h1{
     align-self: flex-end;
     color:#555555;
-    font-size: 40px;
+    font-size: 25px;
     margin:0;
 }
 nav{
