@@ -43,18 +43,21 @@ nav>a{
     border: thick solid #B79C31;
     padding: 5px;
     margin: 50px 3px;
+    border-radius: 25px 0;
 }
 .tercera-seccion{
     background-color: #D3FFAB;
     border:thick solid #74A345;
     padding: 5px;
     margin: 50px 3px;
+    border-radius: 25px 0;
 }
 .cuarta-seccion{
     background-color: #B8E3FF;
     border:thick solid #0C336D;
     padding: 5px;
     margin: 50px 3px;
+    border-radius: 25px 0;
 }
 
 .opinion-clientes{
